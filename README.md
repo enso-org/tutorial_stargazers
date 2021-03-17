@@ -1,6 +1,6 @@
 # Tutorial: Stargazers
 
-<a href="">
+<a href="https://youtu.be/gXnojGR6wOI">
 <b>Watch on YouTube</b>
 <br>
 <img src="https://user-images.githubusercontent.com/1790822/111482194-f517ed80-8733-11eb-8a60-8f157d5062dd.png" width=600/>
